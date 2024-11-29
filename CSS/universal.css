@@ -1,0 +1,45 @@
+body{
+    background:#000000;
+    color: #ffffff;
+}
+#artikel{
+    background: #fffefd;
+    padding: 20px;
+}
+h2 {
+    color: aquamarine;
+    background: rgb(244,118,133);
+    background: linear-gradient(90deg, rgba(244,118,133,1) 13%, rgba(42,157,208,1) 85%);
+}
+.penulis{
+    color:brown;
+    background: rgb(244,118,133);
+    background: linear-gradient(90deg, rgba(244,118,133,1) 13%, rgba(193,208,42,1) 85%);
+}
+.tanggal{
+    color:blueviolet;
+    background: linear-gradient(90deg, rgb(34, 131, 195) 0%, rgb(139, 12, 197) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#artikel-2{
+    color: rgb(255, 255, 255);
+}
+.artikel-3{
+    color: darkolivegreen;
+}
+.HTML{
+    color: rgb(240, 30, 30);
+}
+.credit-2{
+    color: darkslategrey;
+}
+.credit-3{
+    color: rgb(206, 129, 129);
+}
+#artikel-1{
+    color:rgb(119, 36, 196);
+    background: linear-gradient(90deg, rgb(34, 131, 195) 0%, rgb(139, 12, 197) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
